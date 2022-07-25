@@ -31,4 +31,6 @@ But, giving instructions to a computer in the form of binary data can be hard. W
 
 Assembly language is very *low level*; it involves people providing instructions to directly manipulate data is on a computer's processor. Processors are not standardized between computers, meaning that different computers may require different assembly languages to be used.  
 
-Standardized forms of instruction for computers are presented in the form of programming languages such as C, Javascript, Python, Rust, and more. 
+Standardized forms of instruction for computers are presented in the form of programming languages such as C, Javascript, Python, Rust, and more.  
+
+Programming languages taught in AP Computer Science Principles vary based on the instructor. Javascript and Python and the most commonly taught languages, but I personally see Java as a good first programming language. However, the questions on the AP Computer
