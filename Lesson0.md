@@ -33,4 +33,18 @@ Assembly language is very *low level*; it involves people providing instructions
 
 Standardized forms of instruction for computers are presented in the form of programming languages such as C, Javascript, Python, Rust, and more.  
 
-Programming languages taught in AP Computer Science Principles vary based on the instructor. Javascript and Python and the most commonly taught languages, but I personally see Java as a good first programming language. However, the questions on the AP Computer
+Programming languages taught in AP Computer Science Principles vary based on the instructor. Javascript and Python and the most commonly taught languages, but I personally see Java as a good first programming language. However, the questions on the AP Computer Science Principles use a form of *pseudocode* (a fake programming language used to prototype projects or show examples), and I will be teaching using this pseudocode to keep my lessons as language nonspecific as possible.  
+
+If you wish to learn Java, the w3schools course on Java is an excellent resource to learn the language.
+
+> **For the initiated:** I personally believe that Java is a great first language, albeit the fact that it contains considerable amounts of boilerplate (repetitive code), as it makes object-oriented thinking not only a convenience, but a necessity. Java also opens to room for discussion on more advanced programming concepts such as how memory for classes and primitives are dealt with without having to make the learner understand the nitty-gritty details of coding with pointers that lower-level languages require.  
+
+At the end of each lesson there will be a series of practice questions. For practice questions that require programming in AP Pseudocode, an online interpreter can be found at https://pseudocode.run  
+
+### Problems:  
+
+1. Convert the number 20 from decimal (base-10) into binary (base-2)
+2. Convert the number 11001 from binary into decimal
+3. Remember that a byte is 8 bits. What is the largest number a byte can represent (in binary)?
+4. Convert the answer to question 3 into decimal.
+5. **Challenge:** Convert the result of the expression 1011101 - 0100101 from binary into decimal.
