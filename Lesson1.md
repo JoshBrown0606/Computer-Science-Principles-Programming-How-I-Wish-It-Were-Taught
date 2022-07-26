@@ -10,7 +10,7 @@ Let's write a simple program that outputs a message to the screen. To output a m
 
 `DISPLAY("Hello World!")`  
 
-> **Side Note** Most programming languages utilize a `print` command or a variation of it to output a message to the screen. This is due to the fact that the majority of the existing programming languages can trace most of their roots to the programming language C, which was created by Dennis Ritchie in 1972.
+> **Side Note:** Most programming languages utilize a `print` command or a variation of it to output a message to the screen. The idiomatic similarities are due to the fact that the majority of the existing programming languages can trace most of their roots to the programming language C, which was created by Dennis Ritchie in 1972.
 >> You'll see side notes throughout these lessons. They're not essential concepts for AP Computer Science Principles, but they're nice to know things that can provide a greater understanding of computer science.  
 
 The parenthesis let the computer know what to output for the `DISPLAY` command. The quotes inside the parenthesis let the computer know that the text within them is a *string* (a series of letters and symbols à la words).
