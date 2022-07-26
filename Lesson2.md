@@ -4,4 +4,8 @@ Programs would be quite boring if all values were known and constant. At times, 
 
 Variables are widely used in computer programs. For example, a variable would be utilized to store somebody's username and password on a website.  
 
-Variables can store a variety of things, such as numbers, `true`/`false` values, characters, and strings.
+Variables can store a variety of things, such as numbers, `true`/`false` values, characters, and strings.  
+
+To create a variable in pseudocode, the `name ← value` syntax is used. For example, if you were to create a variable called `a` and assign the value 5 to it, the code would be written as:  
+
+`a ← 5`
